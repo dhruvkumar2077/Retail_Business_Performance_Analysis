@@ -1,7 +1,7 @@
-# 🏆 Adidas Sales Analysis Dashboard
+# 🏆 Retail Business Performance Analysis
 
 ## 📖 Overview
-The **Adidas Sales Analysis Dashboard** is an interactive business intelligence project developed during my final internship.  
+The **Retail Business Performance Analysis** is an interactive business intelligence project developed during my final internship.  
 It transforms raw Adidas sales data into actionable insights using **Excel** and **Power BI**, helping business teams analyze performance, identify trends, and make data-driven decisions.
 
 ---
